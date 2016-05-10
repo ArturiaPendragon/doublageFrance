@@ -164,7 +164,7 @@
 
 ### X 
 
-* ![canada](https://cloud.githubusercontent.com/assets/19213221/15150340/111620a6-16cd-11e6-86e8-6af06bf1c3d8.png) - ![hungary](https://cloud.githubusercontent.com/assets/19213221/15150345/133a604a-16cd-11e6-9d1f-3790bc30249a.png) - X Compagny - Saison 1 & 2
+* ![canada](https://cloud.githubusercontent.com/assets/19213221/15150340/111620a6-16cd-11e6-86e8-6af06bf1c3d8.png) ![hungary](https://cloud.githubusercontent.com/assets/19213221/15150345/133a604a-16cd-11e6-9d1f-3790bc30249a.png) - X Compagny - Saison 1 & 2
 
 ### Y
 
