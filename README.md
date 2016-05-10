@@ -11,7 +11,7 @@
 
 ----------
 
-## Séries en cours de diffusion
+## Séries en cours de diffusion (_23_)
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - 12 Monkeys - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - American Horror Story - Saison 5
@@ -39,7 +39,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vikings - Saison 4
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
-## Séries en doublage 
+## Séries en doublage où non diffusée (_162)
 
 ### 0-9
 
