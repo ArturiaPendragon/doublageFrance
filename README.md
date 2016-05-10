@@ -12,12 +12,14 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - American Crime Story - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - American Horror Story - Saison 5
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - American Odyssey - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Animals - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Agent Carter - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Angel from Hell - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Ash vs Evil Dead - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Aquarius - Saison 2
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Arrested Development - Saison 5
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Arrow - Saison 4
-* ![denmark](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Arvingerne - Saison 1
+* ![DK](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Arvingerne - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Awkward - Saison 5
 
 ### B
@@ -29,15 +31,17 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Blindspot - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Blue Bloods - Saison 6
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Blunt Talk - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Bloodline - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Bones - Saison 11
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Bosch - Saison 1 & 2
-* ![denmark](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Bankerot - Saison 1
+* ![DK](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Bankerot - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Brooklyn Nine-Nine - Saison 3
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Brotherhood (UK) - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Brotherhood (UK) - Saison 1
 
 ### C
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Castle - Saison 8
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Casual - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Chef's Table - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Chicago Fire - Saison 4
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Chicago Med - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Chicago P.D - Saison 3
@@ -46,6 +50,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Colony - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Crazy Ex-Girlfriend - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Criminals Minds - Saison 11
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - CSI Cyber - Saison 2
 
 ### D
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Deadbeat - Saison 1 & 2
@@ -78,16 +83,17 @@
 ### H
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Halo : Nightfall - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Hap and Leonard - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Happyish - Saison 1
-* ![denmark](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Heartless - Saison 1
+* ![DK](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Heartless - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Hawaii Five-0 "2010" - Saison 6
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Hot In Cleveland - Saison 1 à 7
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - How to Get Away with Murder - Saison 2
-* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Humans - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Humans - Saison 1
 
 ### I
 
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Indian Summers - Saison 1 & 2 
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Indian Summers - Saison 1 & 2 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - iZombie - Saison 2
 
 ### J
@@ -101,29 +107,42 @@
 ### L
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Lady Dynamite - Saison 1
-* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Les Experts Cyber - Saison 2
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Law And Order SVU - Saison 17
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Legends of Tomorrow - Saison 1
-* ![germany](https://cloud.githubusercontent.com/assets/19213221/15149885/8fe2e5f6-16cb-11e6-8a62-327ba018e98e.png) - Le journal de Meg (Männer sind die beste Medizin) - Saison 1 
-* ![spain](https://cloud.githubusercontent.com/assets/19213221/15149903/a3d65098-16cb-11e6-887f-fcb3d266b983.png) - Les Otages du Désert (Los nuestros) - Saison 1
+* ![DE](https://cloud.githubusercontent.com/assets/19213221/15149885/8fe2e5f6-16cb-11e6-8a62-327ba018e98e.png) - Le journal de Meg (Männer sind die beste Medizin) - Saison 1 
+* ![ES](https://cloud.githubusercontent.com/assets/19213221/15149903/a3d65098-16cb-11e6-887f-fcb3d266b983.png) - Les Otages du Désert (Los nuestros) - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Life in Pieces - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Limitless - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Line Of Duty - Saison 3
 
 ### M
 
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Madam Secretary - Saison 2
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Marcella - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Marco Polo - Saison 2 
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Major Crime - Saison 4
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Married - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Mom - Saison 3
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Modern Family - Saison 7
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Mozart In The Jungle - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Mr. Robot - Saison 1 
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Mr Selfridge - Saison 4
  
 ### N
 
-* ![denmark](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Norskov - Saison 1
+* ![DK](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Norskov - Saison 1
+
+### O
+
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Outlander - Saison 2
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Orphan Black - Saison 4
 
 ### P
 
-* ![germany](https://cloud.githubusercontent.com/assets/19213221/15149885/8fe2e5f6-16cb-11e6-8a62-327ba018e98e.png) - Paare - Saison 1
+* ![DE](https://cloud.githubusercontent.com/assets/19213221/15149885/8fe2e5f6-16cb-11e6-8a62-327ba018e98e.png) - Paare - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Penny Dreadful - Saison 3
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Poldark - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Poldark - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Pretty Little Liars - Saison 6 Partie 2
 
 ### Q
 
@@ -137,49 +156,57 @@
 ### S
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Salem - Saison 1 & 2
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Safe House - Saison 1
-* ![australia](https://cloud.githubusercontent.com/assets/19213221/15150143/53deeed2-16cc-11e6-81e2-b95e1cfdf1e3.png) - Sam Fox : Extreme Adventures - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Safe House - Saison 1
+* ![AU](https://cloud.githubusercontent.com/assets/19213221/15150143/53deeed2-16cc-11e6-81e2-b95e1cfdf1e3.png) - Sam Fox : Extreme Adventures - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Saving Hope - Saison 4
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Sirens - Saison 1 & 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scandal "2012" - Saison 5
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scorpion - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scream - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Second Chance - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Sherlock - L'effroyable mariée
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Stranger Things - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Supergirl - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Supernatural - Saison 11
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
 ### T
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The BlackList - Saison 3
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Catch - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Comedians - Saison 1
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - The Five - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - The Five - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Get Down - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Good Witch - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Last Man on Earth - Saison 1 & 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The McCarthys - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Mindy Project - Saison 3
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Mysteries Of Laura - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Odd Couple - Saison 1 & 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Player - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Simpsons - Saison 26
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - The Walking Dead - Saison 6
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Togetherness - Saison 2
 
 ### U
 
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Unforgotten - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Unforgotten - Saison 1
 
 ### V
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vinyl - Saison 1
-* ![spain](https://cloud.githubusercontent.com/assets/19213221/15149903/a3d65098-16cb-11e6-887f-fcb3d266b983.png) - Vis à vis - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vikings - Saison 4
+* ![ES](https://cloud.githubusercontent.com/assets/19213221/15149903/a3d65098-16cb-11e6-887f-fcb3d266b983.png) - Vis à vis - Saison 1
 
 ### W
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Wayward Pines - Saison 2
-* ![united kingdom great britain](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - War & Peace - Saison 1
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - War & Peace - Saison 1
 
 ### X 
 
-* ![canada](https://cloud.githubusercontent.com/assets/19213221/15150340/111620a6-16cd-11e6-86e8-6af06bf1c3d8.png) ![hungary](https://cloud.githubusercontent.com/assets/19213221/15150345/133a604a-16cd-11e6-9d1f-3790bc30249a.png) - X Compagny - Saison 1 & 2
+* ![CA](https://cloud.githubusercontent.com/assets/19213221/15150340/111620a6-16cd-11e6-86e8-6af06bf1c3d8.png) ![HU](https://cloud.githubusercontent.com/assets/19213221/15150345/133a604a-16cd-11e6-9d1f-3790bc30249a.png) - X Compagny - Saison 1 & 2
 
 ### Y
 
