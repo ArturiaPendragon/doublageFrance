@@ -1,4 +1,4 @@
-## Doublage France/ Attente de diffusion - 2015 / 2016
+## Doublage France / Attente de diffusion - 2015 / 2016
 
 ### 0-9
 
