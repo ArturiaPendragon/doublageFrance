@@ -37,9 +37,10 @@
 * ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - The Five - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vinyl - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vikings - Saison 4
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
-## Séries en doublage où non diffusée (162)
+## Séries en doublage où non diffusée (161)
 
 ### 0-9
 
@@ -112,7 +113,6 @@
 
 ### H
 
-* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Halo : Nightfall - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Hap and Leonard - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Happyish - Saison 1
 * ![DK](https://cloud.githubusercontent.com/assets/19213221/15149688/d4a6c118-16ca-11e6-8724-ff59d3aa494f.png) - Heartless - Saison 1
@@ -136,8 +136,6 @@
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Lady Dynamite - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Legends of Tomorrow - Saison 1
-* ![DE](https://cloud.githubusercontent.com/assets/19213221/15149885/8fe2e5f6-16cb-11e6-8a62-327ba018e98e.png) - Le journal de Meg (Männer sind die beste Medizin) - Saison 1 
-* ![ES](https://cloud.githubusercontent.com/assets/19213221/15149903/a3d65098-16cb-11e6-887f-fcb3d266b983.png) - Les Otages du Désert (Los nuestros) - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Life in Pieces - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Limitless - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Line Of Duty - Saison 3
@@ -187,7 +185,6 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scream - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Second Chance - Saison 1
 * ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Sherlock - L'effroyable mariée
-* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Stranger Things - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Supergirl - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Supernatural - Saison 11
