@@ -3,6 +3,7 @@
 
 ### Derniers ajouts :
 
+* 11.22.63 - Saison 1
 * The Magicians - Saison 1
 * Marcella - Saison 1
 * The Get Down - Saison 1
@@ -40,10 +41,11 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
-## Séries en doublage où non diffusée (161)
+## Séries en doublage où non diffusée (162)
 
 ### 0-9
 
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - 11.22.63 - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - 2 Broke Girls - Saison 5
 
 ### A
