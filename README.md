@@ -220,7 +220,6 @@
 
 ### W
 
-* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Wayward Pines - Saison 2
 * ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - War & Peace - Saison 1
 
 ### X 
