@@ -3,6 +3,7 @@
 
 ### Derniers ajouts :
 
+* Luke Cage - Saison 1
 * 11.22.63 - Saison 1
 * The Magicians - Saison 1
 * Marcella - Saison 1
@@ -141,6 +142,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Life in Pieces - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Limitless - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Line Of Duty - Saison 3
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Luke Cage - Saison 1
 
 ### M
 
