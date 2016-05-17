@@ -3,12 +3,11 @@
 
 ### Derniers ajouts :
 
-* Luke Cage - Saison 1
-* 11.22.63 - Saison 1
-* The Magicians - Saison 1
-* Marcella - Saison 1
-* The Get Down - Saison 1
-* War & Peace - Saison 1
+![11 22 63](https://cloud.githubusercontent.com/assets/19213221/15323495/a2ac5cea-1c42-11e6-9c41-d97e1f48b96a.jpeg)
+![luke](https://cloud.githubusercontent.com/assets/19213221/15323734/b1b42a78-1c43-11e6-9306-fca98e2aa24b.jpg)
+![themagicians](https://cloud.githubusercontent.com/assets/19213221/15323598/18b9b388-1c43-11e6-836d-91e2d227305e.jpg)
+![marcella](https://cloud.githubusercontent.com/assets/19213221/15323641/54af7134-1c43-11e6-9bab-07821ff10fef.jpg)
+![war](https://cloud.githubusercontent.com/assets/19213221/15323729/ae3a429c-1c43-11e6-82bf-361c9d00fbcf.jpg)
 
 
 ----------
