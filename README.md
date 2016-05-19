@@ -12,7 +12,7 @@
 
 ----------
 
-## Séries en cours de diffusion (28)
+## Séries en cours de diffusion (29)
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - 12 Monkeys - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Ash vs Evil Dead - Saison 1
@@ -40,10 +40,11 @@
 * ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - The Five - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vinyl - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Vikings - Saison 4
+* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Sherlock - L'effroyable mariée
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
-## Séries en doublage où non diffusée (159)
+## Séries en doublage où non diffusée (158)
 
 ### 0-9
 
@@ -189,7 +190,6 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scandal "2012" - Saison 5
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scream - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Second Chance - Saison 1
-* ![UK](https://cloud.githubusercontent.com/assets/19213221/15149749/0b4ff478-16cb-11e6-95d4-721ded64e76b.png) - Sherlock - L'effroyable mariée
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Stranger Things - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Supergirl - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Supernatural - Saison 11
