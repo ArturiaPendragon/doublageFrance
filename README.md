@@ -39,7 +39,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scorpion - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
-## Séries en doublage où non diffusée (160)
+## Séries en doublage ou non diffusées (160)
 
 ### 0-9
 
