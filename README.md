@@ -8,7 +8,7 @@
 
 ----------
 
-## Séries en cours de diffusion (30)
+## Séries en cours de diffusion (31)
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - 12 Monkeys - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Ash vs Evil Dead - Saison 1
@@ -19,6 +19,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Bosch - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Extant - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Fear the Walking Dead - Saison 2
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Finding Carter - Saison 2 Partie 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Hawaii Five-0 "2010" - Saison 6
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Girls - Saison 5 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Gotham - Saison 2
@@ -41,7 +42,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Scorpion - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Suits - Saison 5
 
-## Séries en doublage ou non diffusées (158)
+## Séries en doublage ou non diffusées (157)
 
 ### 0-9
 
@@ -101,7 +102,6 @@
 ### F
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Faking It - Saison 3
-* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Finding Carter - Saison 2 Partie 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Flash "2014" - Saison 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Fresh Off the Boat - Saison 1 & 2
 
