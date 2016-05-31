@@ -1,6 +1,6 @@
 ### Derniers ajouts :
 
-![criminalmindsbeyondsborder](https://cloud.githubusercontent.com/assets/19213221/15680633/bc6a1784-2756-11e6-8f9d-5f8eaa321040.jpg)
+![criminalmindsbeyondsborder](https://cloud.githubusercontent.com/assets/19213221/15681128/748d970e-2758-11e6-9e27-e0fd5eedfda1.jpg)
 ![adbible](https://cloud.githubusercontent.com/assets/19213221/15414630/cd191918-1e3c-11e6-89e9-8969ff2974b8.jpg)
 ![scrotall](https://cloud.githubusercontent.com/assets/19213221/15414646/ef6fc05c-1e3c-11e6-8e9e-b140eeba83f8.jpg)
 ![11 22 63](https://cloud.githubusercontent.com/assets/19213221/15323495/a2ac5cea-1c42-11e6-9c41-d97e1f48b96a.jpeg)
@@ -40,7 +40,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Togetherness - Saison 2
 
-## Séries en doublage ou non diffusées (116)
+## Séries en doublage ou non diffusées (106)
 
 ### 0-9 (2)
 
