@@ -1,10 +1,10 @@
 ### Derniers ajouts :
 
+![containment](https://cloud.githubusercontent.com/assets/19213221/15728534/485c4864-285d-11e6-856f-5e14c7fb92d4.jpg)
+![rushhour](https://cloud.githubusercontent.com/assets/19213221/15728535/4bb945c0-285d-11e6-8121-69b5dee1c057.jpg)
 ![criminalmindsbeyondsborder](https://cloud.githubusercontent.com/assets/19213221/15681128/748d970e-2758-11e6-9e27-e0fd5eedfda1.jpg)
 ![adbible](https://cloud.githubusercontent.com/assets/19213221/15414630/cd191918-1e3c-11e6-89e9-8969ff2974b8.jpg)
 ![scrotall](https://cloud.githubusercontent.com/assets/19213221/15414646/ef6fc05c-1e3c-11e6-8e9e-b140eeba83f8.jpg)
-![11 22 63](https://cloud.githubusercontent.com/assets/19213221/15323495/a2ac5cea-1c42-11e6-9c41-d97e1f48b96a.jpeg)
-![luke](https://cloud.githubusercontent.com/assets/19213221/15323734/b1b42a78-1c43-11e6-9306-fca98e2aa24b.jpg)
 
 ----------
 
@@ -41,7 +41,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Soy Luna - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Togetherness - Saison 2
 
-## Séries en doublage ou non diffusées (110)
+## Séries en doublage ou non diffusées (112)
 
 ### 0-9 (2)
 
@@ -86,6 +86,7 @@
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Cleaners - Saison 1 & 2
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Code Black - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Colony - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Containment - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Crazy Ex-Girlfriend - Saison 1
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Criminals Minds - Saison 11
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Criminals Minds Beyond Borders - Saison 1
@@ -178,6 +179,7 @@
 ### R (1)
 
 * ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Rosewood - Saison 1
+* ![USA](https://cloud.githubusercontent.com/assets/19213221/15149549/35d6dee2-16ca-11e6-924f-92237fccf32d.png) - Rush Hour "2016" - Saison 1
 
 ### S (11)
 
