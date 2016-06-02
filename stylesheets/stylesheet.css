@@ -882,7 +882,7 @@ footer a:hover {
  * Progress bars with centered text
  */
 
-/*.progress {
+.progress {
     position: relative;
 }
 
@@ -891,4 +891,4 @@ footer a:hover {
     display: block;
     width: 100%;
     color: black;
- }*/
+ }
