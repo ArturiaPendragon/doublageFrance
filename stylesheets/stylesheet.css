@@ -625,7 +625,7 @@ form {
   padding-right: 0.3em;
   margin-left: -0.9em;
   color: #9ddcff;
-  content: "/";
+/*  content: "/";*/
 }
 
 #main-content h2 {
@@ -639,7 +639,7 @@ form {
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
-  content: "//";
+/*  content: "//";*/
   color: #9ddcff;
 }
 
@@ -656,7 +656,7 @@ form {
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
-  content: "///";
+/*  content: "///";*/
   color: #9ddcff;
 }
 
@@ -672,7 +672,7 @@ form {
 h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
-  content: "////";
+/*  content: "////";*/
   color: #9ddcff;
 }
 
