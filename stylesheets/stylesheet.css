@@ -20,6 +20,9 @@ body {
   margin: 0;
 }
 
+.label-as-badge {
+    border-radius: 1em;
+}
 /* HTML5 display definitions
    ========================================================================== */
 
