@@ -20,57 +20,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script>
-    $(function () {
-    $('#container').highcharts({
-        chart: {
-            plotBackgroundColor: null,
-            plotBorderWidth: null,
-            plotShadow: false,
-            type: 'pie'
-        },
-        title: {
-            text: 'Répartition des diffusions - Juin 2016'
-        },
-        tooltip: {
-            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-        },
-        plotOptions: {
-            pie: {
-                allowPointSelect: true,
-                cursor: 'pointer',
-                dataLabels: {
-                    enabled: true,
-                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                    style: {
-                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
-                    }
-                }
-            }
-        },
-        series: [{
-            name: 'Pays',
-            colorByPoint: true,
-            data: [{
-                name: 'France',
-                y: 55.17,
-                sliced: true,
-                selected: true
-            }, {
-                name: 'Belgique',
-                y: 13.79
-            }, {
-                name: 'Canada',
-                y: 20.68
-            }, {
-                name: 'Suisse',
-                y: 13.79
-            }]
-        }]
-    });
-});
-    </script>
-
+<script type="text/javascript"></script>
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();   
 });
@@ -173,7 +123,7 @@ $(document).ready(function(){
                     </div> -->
             <div class="alert alert-success">
                     <strong>Diffusions en cours :</strong> 
-                    <div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+                    <img src="https://cloud.githubusercontent.com/assets/19213221/15835861/45f58e7c-2c32-11e6-827c-471e1c0d27cf.png" alt="USA">
                     <hr>                  
                     <ul class="list-inline">
                     <li data-toggle="tooltip" data-placement="right" title="Syfy (France)"><span class="badge alert-warning">12 Monkeys</span> <span class="badge progress-bar-success">Saison 2</span></li>
