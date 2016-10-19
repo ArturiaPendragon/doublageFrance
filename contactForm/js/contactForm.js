@@ -23,7 +23,7 @@
             firstName = name.split(' ').slice(0, -1).join(' ');
           }        
           $.ajax({
-            url: "./bin/contactForm.php",
+            url: "contactForm.php",
             type: "POST",
             data: {name: name, email: email, message: message},
             cache: false,
