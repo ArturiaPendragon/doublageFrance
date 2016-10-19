@@ -14,7 +14,7 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 
 // Crée le contenu du mail et l'envoie	
-$to = 'me@gmail.com';
+$to = 'saberpendradon@gmail.com';
 $email_subject = "Formulaire envoyé par : $name";
 $email_body = "Vous avez un nouveau message. \n\n".
 "Description :\n \nName: $name \n ".

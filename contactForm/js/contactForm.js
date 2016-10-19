@@ -45,7 +45,7 @@
     $('#success').html("<div class='alert alert-danger'>");
     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
     .append( "</button>");
-    $('#success > .alert-danger').append("<strong>Désolé, "+firstName+" il semblerait que le serveur mail ne répondent pas...</strong> Merci d'utiliser directement cet e-mail : <a href='mailto:me@example.com?Subject=Message_Me from myprogrammingblog.com'>me@example.com</a> ? Sorry for the inconvenience!");
+    $('#success > .alert-danger').append("<strong>Désolé, "+firstName+" il semblerait que le serveur mail ne répondent pas...</strong> Merci d'utiliser directement cet e-mail : <a href='mailto:me@google.com?Subject=Message_Me me@google.com'>me@google.com</a> ? Désolé pour cet erreur !");
     $('#success > .alert-danger').append('</div>');
  		// clear all fields
  		$('#contactForm').trigger("reset");
