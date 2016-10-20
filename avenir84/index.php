@@ -1,2 +1,2 @@
 <?php
-header('Location: ./principal/');
+header('Location: principal/');

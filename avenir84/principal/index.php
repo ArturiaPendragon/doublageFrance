@@ -33,14 +33,14 @@
         <![endif]-->
     <!-- Fixed navbar -->
     <?php
-      include('./menu.html');
-      include('./carousel.html');
+      include('menu.html');
+      include('carousel.html');
 
       $page = 'accueil';
       if( isset($_GET['page']))
         $page = $_GET['page'];
 
-        $file = './html/'.$page.'.html';
+        $file = 'html/'.$page.'.html';
 
         echo '<div class="container">';
         if( file_exists( $file ))
