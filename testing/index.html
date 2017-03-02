@@ -39,23 +39,23 @@
                         <li><a data-toggle="pill" href="#menu2">Questions</a></li>
                         <li><a data-toggle="pill" href="#menu3">Test vocal</a></li>
                         <li><a data-toggle="pill" href="#menu4">Test de fréquence</a></li>
-                        <li><a data-toggle="pill disabled" href="#menu5">Résultat</a></li>
+                        <li><a data-toggle="pill" href="#menu5">Résultat</a></li>
                     </ul>
                     <div class="tab-content">
                     <!-- Partie Coordonnées -->
                         <div id="menu1" class="tab-pane fade in active"> <br>
+                        <center>
                         <form data-toggle="validator" role="form">
                             <div class="form-group">
-                                <center>
-
-                                <input type="age" class="form-control" id="age" placeholder="Age">
+                                <input type="age" class="form-control" id="age" placeholder="Age" data-error="Bruth, that age is invalid" required>
+                                <div class="help-block with-errors"></div>
                                 <input type="email" class="form-control" id="inputEmail" placeholder="Email" data-error="Bruh, that email address is invalid" required>
                                 <div class="help-block with-errors"></div>
-                                </center>
                             </div>
                             <!-- Démarrer le test -->
                             <button type="submit" class="btn btn-primary">Démarrer le test</button>
                         </form>
+                        </center>
                         </div>
                     <!-- Partie Questions -->
                         <div id="menu2" class="tab-pane fade">
