@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="shortcut icon" id="favicon" type="image/x-icon" href="//calendar.google.com/googlecalendar/images/favicon_v2014_2.ico">
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
@@ -43,10 +42,25 @@
                         <li><a data-toggle="pill" href="#menu5">Résultat</a></li>
                     </ul>
                     <div class="tab-content">
+                    <!-- Partie Coordonnées -->
                         <div id="menu1" class="tab-pane fade in active"> <br>
+                        <form data-toggle="validator" role="form">
+                            <div class="form-group">
+                                
+                                <label for="age">Age</label>
+                             
+                                <label for="inputEmail" class="control-label">Email</label>
+                                <input type="email" class="form-control" id="inputEmail" placeholder="Email" data-error="Bruh, that email address is invalid" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
+                            <!-- Démarrer le test -->
+                            <button type="submit" class="btn btn-primary">Démarrer le test</button>
+                        </form>
                         </div>
+                    <!-- Partie Questions -->
                         <div id="menu2" class="tab-pane fade">
                         </div>
+                    <!-- Partie Test Vocal -->
                         <div id="menu3" class="tab-pane fade">
                     </div>
                     </div>
