@@ -17,12 +17,14 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="dist/js/bootstrap-checkbox.min.js" defer></script>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <script type="text/javascript">
         $(document).ready(function() {
             $('[data-toggle="tooltip"]').tooltip();
+            $(':checkbox').checkboxpicker();
         });
     </script>
     <script>
@@ -72,6 +74,8 @@
                         </div>
                     <!-- Partie Questions -->
                         <div id="menu2" class="tab-pane fade">
+                        <hr>
+                            <input type="checkbox">
                         </div>
                     <!-- Partie Test Vocal -->
                         <div id="menu3" class="tab-pane fade">
