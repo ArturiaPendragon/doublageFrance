@@ -4,7 +4,6 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
@@ -17,7 +16,7 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
-    <script src="dist/js/bootstrap-checkbox.min.js" defer></script>
+    <script src="../dist/js/bootstrap-checkbox.min.js" defer></script>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -48,9 +47,8 @@
                         <li><a data-toggle="pill" href="#menu2">Questions</a></li>
                         <li><a data-toggle="pill" href="#menu3">Test vocal</a></li>
                         <li><a data-toggle="pill" href="#menu4">Test de fréquence</a></li>
-                        <li><a data-toggle="pill" href="#menu5">Résultat</a></li>
+                        <li><a data-toggle="pill" href="#menu5">Résultats</a></li>
                     </ul>
-                    <div class="alert alert-success">
                     <div class="tab-content">
                     <!-- Partie Coordonnées -->
                         <div id="menu1" class="tab-pane fade in active"> <br>
@@ -90,10 +88,12 @@
                     </div>
                     <!-- Partie Test de Fréquence -->
                         <div id="menu4" class="tab-pane fade">
+                            <hr>
                             <!-- 16:9 aspect ratio -->
                             <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="http://www.qualison.com/wp-content/uploads/2016/TA/Test-auditif.mp4" width="720" height="405"></iframe>
                             </div>
+                            <hr>
                             <center>
                             <input type="radio" name="frequence" value="8000hz" /> 8000 Hz
                             <input type="radio" name="frequence" value="4000hz" /> 4000 Hz
@@ -105,7 +105,7 @@
                             <input type="radio" name="frequence" value="400hz" /> 400 Hz
                             </center>
                             <hr>
-                            <button type="submit" class="btn btn-primary">Valider</button>
+                            <center><button type="submit" class="btn btn-primary">Valider</button></center>
                         </div>
                         <div id="menu5" class="tab-pane fade">
                     </div>
