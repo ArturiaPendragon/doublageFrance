@@ -25,6 +25,13 @@
             $('[data-toggle="tooltip"]').tooltip();
         });
     </script>
+    <script>
+        $(document).ready(function(){
+            $(".btn-default:first").click(function(){
+        $(this).button('toggle');
+        });   
+    });
+    </script>
     <title>Test Auditif</title>
 </head>
 
@@ -45,6 +52,7 @@
                     <!-- Partie Coordonnées -->
                         <div id="menu1" class="tab-pane fade in active"> <br>
                         <center>
+                        <!-- Validateur de données de boostraap -->
                         <form data-toggle="validator" role="form">
                             <div class="form-group">
                                 <input type="button" class="btn btn-success" value="Homme">
