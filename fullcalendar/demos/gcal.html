@@ -39,6 +39,7 @@
 			}
 			
 		});
+
 		// build the locale selector's options
 		$.each($.fullCalendar.locales, function(localeCode) {
 			$('#locale-selector').append(
@@ -55,8 +56,6 @@
 				$('#calendar').fullCalendar('option', 'locale', this.value);
 			}
 		});
-
-		
 	});
 
 </script>
