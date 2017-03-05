@@ -29,58 +29,10 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script>
-
-    $(document).ready(function() {
-        $('#calendar').fullCalendar({
-            header: {
-                left: 'prev,next today',
-                center: 'title',
-                right: 'listDay,month'
-            },
-
-            defaultView: 'listDay',
-            defaultDate: '2017-03-05',
-            navLinks: true, // can click day/week names to navigate views
-            editable: false,
-            eventLimit: true, // allow "more" link when too many events
-            googleCalendarApiKey: 'AIzaSyA-jzm9BIuS-vGqcLVswJCL4kPMMsRhHLc',
-            events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
-
-            // eventClick: function(event) {
-            //     if (event.url) {
-            //         return false;
-            //     }
-            // },
-            // eventRender: function(event, element) {
-            //      $(element).tooltip({title: event.location});             
-            // },
-
-            loading: function(bool) {
-                $('#loading').toggle(bool);
-            }
-        },
-        $('[data-toggle="tooltip"]').tooltip();
-        
+        $(document).ready(function() {
+            $('[data-toggle="tooltip"]').tooltip();
         });
-
-    });
-
-</script>
-    <style>
-    #loading {
-        display: none;
-        position: absolute;
-        top: 10px;
-        right: 10px;
-    }
-
-    #calendar {
-        max-width: 900px;
-        margin: 40px auto;
-        padding: 0 10px;
-    }
-
-</style>
+    </script>
     <title>Doublage &amp; Diffusion Francophone (DDF)</title>
 </head>
 
@@ -311,6 +263,56 @@
                     </div>
                     <div id="menu4" class="tab-pane fade">
                             <div class="alert alert-info">
+                                <script>
+
+    $(document).ready(function() {
+        $('#calendar').fullCalendar({
+            header: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'listDay,month'
+            },
+
+            defaultView: 'listDay',
+            defaultDate: '2017-03-05',
+            navLinks: true, // can click day/week names to navigate views
+            editable: false,
+            eventLimit: true, // allow "more" link when too many events
+            googleCalendarApiKey: 'AIzaSyA-jzm9BIuS-vGqcLVswJCL4kPMMsRhHLc',
+            events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
+
+            // eventClick: function(event) {
+            //     if (event.url) {
+            //         return false;
+            //     }
+            // },
+            // eventRender: function(event, element) {
+            //      $(element).tooltip({title: event.location});             
+            // },
+
+            loading: function(bool) {
+                $('#loading').toggle(bool);
+            }
+        }
+
+    });
+
+</script>
+    <style>
+    #loading {
+        display: none;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    #calendar {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 0 10px;
+    }
+
+</style>
                                     <div id='loading'>loading...</div>
                                     <div id='calendar'></div>
                             </div>
