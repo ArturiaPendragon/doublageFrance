@@ -259,6 +259,8 @@
                                 </ul>
                         </div>
                     </div>
+<link href='fullcalendar.min.css' rel='stylesheet' />
+<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
 <script>
 
     $(document).ready(function() {
@@ -282,9 +284,9 @@
                     return false;
                 }
             },
-            eventRender: function(event, element) {
-                 $(element).tooltip({title: event.location});             
-            },
+            // eventRender: function(event, element) {
+            //      $(element).tooltip({title: event.location});             
+            // },
 
             loading: function(bool) {
                 $('#loading').toggle(bool);
