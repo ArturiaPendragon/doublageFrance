@@ -494,6 +494,10 @@ header h2 {
 
 #main-content {
   float: left;
+<<<<<<< HEAD
+=======
+  width: 690px;
+>>>>>>> parent of 5e2c17b... Update CSS
 }
 
 #main-content img {
