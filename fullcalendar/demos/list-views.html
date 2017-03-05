@@ -16,27 +16,22 @@
 			header: {
 				left: 'prev,next today',
 				center: 'title',
-				right: 'listDay'
+				right: 'listDay,month'
 			},
 
-			// customize the button names,
-			// otherwise they'd all just say "list"
-			views: {
-				listDay: { buttonText: 'list day' }
-			},
 			defaultView: 'listDay',
 			defaultDate: '2017-03-05',
 			navLinks: true, // can click day/week names to navigate views
-			editable: true,
+			editable: false,
 			eventLimit: true, // allow "more" link when too many events
 			googleCalendarApiKey: 'AIzaSyA-jzm9BIuS-vGqcLVswJCL4kPMMsRhHLc',
 			events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
 
-			eventClick: function(event) {
-				// opens events in a popup window
-				window.open(event.url, 'gcalevent', 'width=700,height=600');
-				return false;
-			},
+			// eventClick: function(event) {
+			// 	// opens events in a popup window
+			// 	window.open(event.url, 'gcalevent', 'width=700,height=600');
+			// 	return false;
+			// },
 
 			loading: function(bool) {
 				$('#loading').toggle(bool);
