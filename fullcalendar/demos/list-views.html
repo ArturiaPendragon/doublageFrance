@@ -32,7 +32,9 @@
             		return false;
         		}
     		},
-
+    		 eventRender: function(event, element) {
+     			 $(element).tooltip({title: event.title});             
+  			},
 			loading: function(bool) {
 				$('#loading').toggle(bool);
 			}
