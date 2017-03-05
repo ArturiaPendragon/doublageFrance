@@ -22,10 +22,10 @@
             locale: initialLocaleCode,
             defaultDate: '2017-03-05',
 			buttonIcons: false, // show the prev/next text
-			weekNumbers: true,
+			weekNumbers: false,
 			navLinks: true, // can click day/week names to navigate views
-			editable: true,
-			eventLimit: true, // allow "more" link when too many events
+			editable: false,
+			eventLimit: more, // allow "more" link when too many events
 
 			// THIS KEY WON'T WORK IN PRODUCTION!!!
 			// To make your own Google API key, follow the directions here:
@@ -39,6 +39,23 @@
 			}
 			
 		});
+		// build the locale selector's options
+		$.each($.fullCalendar.locales, function(localeCode) {
+			$('#locale-selector').append(
+				$('<option/>')
+					.attr('value', localeCode)
+					.prop('selected', localeCode == initialLocaleCode)
+					.text(localeCode)
+			);
+		});
+
+		// when the selected option changes, dynamically change the calendar option
+		$('#locale-selector').on('change', function() {
+			if (this.value) {
+				$('#calendar').fullCalendar('option', 'locale', this.value);
+			}
+		});
+
 		
 	});
 
@@ -46,31 +63,40 @@
 <style>
 
 	body {
-		margin: 40px 10px;
+		margin: 0;
 		padding: 0;
 		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
 		font-size: 14px;
 	}
-		
-	#loading {
-		display: none;
-		position: absolute;
-		top: 10px;
-		right: 10px;
+
+	#top {
+		background: #eee;
+		border-bottom: 1px solid #ddd;
+		padding: 0 10px;
+		line-height: 40px;
+		font-size: 12px;
 	}
 
 	#calendar {
 		max-width: 900px;
-		margin: 0 auto;
+		margin: 40px auto;
+		padding: 0 10px;
 	}
 
 </style>
 </head>
 <body>
 
-	<div id='loading'>loading...</div>
+	<div id='top'>
+
+		Locales:
+		<select id='locale-selector'></select>
+
+	</div>
 
 	<div id='calendar'></div>
+
+
 
 </body>
 </html>
