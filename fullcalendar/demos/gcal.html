@@ -8,19 +8,18 @@
 <script src='../lib/jquery.min.js'></script>
 <script src='../fullcalendar.min.js'></script>
 <script src='../gcal.min.js'></script>
+<script src='../fullcalendar/locale/fr.js'></script>
 <script>
 
 	$(document).ready(function() {
 	
 		$('#calendar').fullCalendar({
-			var initialLocaleCode = 'fr';
             header: {
                 left: 'prev,next today',
                 center: 'title',
                 right: 'month,agendaWeek,agendaDay,listMonth'
             },
             defaultDate: '2017-03-05',
-			locale: initialLocaleCode,
 
 			// THIS KEY WON'T WORK IN PRODUCTION!!!
 			// To make your own Google API key, follow the directions here:
