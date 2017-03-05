@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <!-- Full Calendar Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.min.css"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.print.css"></script>
+    <script src="https://fullcalendar.io/js/fullcalendar-3.2.0/gcal.min.js"></script>
+    <script src="dist/js/bootstrap-checkbox.min.js" defer></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<script>
+
+    $(document).ready(function() {
+        var initialLocaleCode = 'fr';
+
+        $('#calendar').fullCalendar({
+
+            header: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'agendaDay'
+            },
+            locale: initialLocaleCode,
+            buttonIcons: false, // show the prev/next text
+            editable: true,
+            eventLimit: true, // allow "more" link when too many event
+
+            googleCalendarApiKey: '9Aqfs98qaMezbjFW9rveCJKG',
+            events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
+            
+            loading: function(bool) {
+                $('#loading').toggle(bool);
+            }
+            
+        });
+        
+    });
+
+</script>
+<style>
+
+    body {
+        margin: 40px 10px;
+        padding: 0;
+        font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+        font-size: 14px;
+    }
+        
+    #loading {
+        display: none;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    #calendar {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+</style>
+    <title>Test Agenda</title>
+</head>
+
+<body>
+    <div id="content-wrapper">
+        <div class="inner clearfix">
+            <section id="main-content">
+                <div class="well">
+                    <div id='calendar'></div>
+                </div>
+            </section> 
+            </div>
+        </div>
+</body>
+
+</html>
