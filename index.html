@@ -26,71 +26,6 @@
     <script src='fullcalendar.min.js'></script>
     <script src='gcal.min.js'></script>
     <script src='fullcalendar/locale-all.js'></script>
-    <script>
-
-    $(document).ready(function() {
-        var initialLocaleCode = 'fr';
-        $('#calendar').fullCalendar({
-            header: {
-                left: 'prev,next today',
-                center: 'title',
-                right: 'month,agendaWeek,agendaDay,listMonth'
-            },
-            locale: initialLocaleCode,
-            defaultDate: '2017-03-05',
-            buttonIcons: false, // show the prev/next text
-            weekNumbers: false,
-            navLinks: true, // can click day/week names to navigate views
-            editable: false,
-            eventLimit: more, // allow "more" link when too many events
-
-            // THIS KEY WON'T WORK IN PRODUCTION!!!
-            // To make your own Google API key, follow the directions here:
-            // http://fullcalendar.io/docs/google_calendar/
-            googleCalendarApiKey: 'AIzaSyA-jzm9BIuS-vGqcLVswJCL4kPMMsRhHLc',
-        
-            // US Holidays
-            events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
-            loading: function(bool) {
-                $('#loading').toggle(bool);
-            }
-            
-        });
-
-        // build the locale selector's options
-        $.each($.fullCalendar.locales, function(localeCode) {
-            $('#locale-selector').append(
-                $('<option/>')
-                    .attr('value', localeCode)
-                    .prop('selected', localeCode == initialLocaleCode)
-                    .text(localeCode)
-            );
-        });
-
-        // when the selected option changes, dynamically change the calendar option
-        $('#locale-selector').on('change', function() {
-            if (this.value) {
-                $('#calendar').fullCalendar('option', 'locale', this.value);
-            }
-        });
-    });
-
-    </script>
-    <style>
-    #loading {
-        display: none;
-        position: absolute;
-        top: 10px;
-        right: 10px;
-    }
-
-    #calendar {
-        max-width: 900px;
-        margin: 40px auto;
-        padding: 0 10px;
-    }
-
-</style>
     <script type="text/javascript">
         $(document).ready(function() {
             $('[data-toggle="tooltip"]').tooltip();
@@ -324,6 +259,70 @@
                                 </ul>
                         </div>
                     </div>
+    <script>
+    $(document).ready(function() {
+        var initialLocaleCode = 'fr';
+        $('#calendar').fullCalendar({
+            header: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'month,agendaWeek,agendaDay,listMonth'
+            },
+            locale: initialLocaleCode,
+            defaultDate: '2017-03-05',
+            buttonIcons: false, // show the prev/next text
+            weekNumbers: false,
+            navLinks: true, // can click day/week names to navigate views
+            editable: false,
+            eventLimit: more, // allow "more" link when too many events
+
+            // THIS KEY WON'T WORK IN PRODUCTION!!!
+            // To make your own Google API key, follow the directions here:
+            // http://fullcalendar.io/docs/google_calendar/
+            googleCalendarApiKey: 'AIzaSyA-jzm9BIuS-vGqcLVswJCL4kPMMsRhHLc',
+        
+            // US Holidays
+            events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
+            loading: function(bool) {
+                $('#loading').toggle(bool);
+            }
+            
+        });
+
+        // build the locale selector's options
+        $.each($.fullCalendar.locales, function(localeCode) {
+            $('#locale-selector').append(
+                $('<option/>')
+                    .attr('value', localeCode)
+                    .prop('selected', localeCode == initialLocaleCode)
+                    .text(localeCode)
+            );
+        });
+
+        // when the selected option changes, dynamically change the calendar option
+        $('#locale-selector').on('change', function() {
+            if (this.value) {
+                $('#calendar').fullCalendar('option', 'locale', this.value);
+            }
+        });
+    });
+
+    </script>
+    <style>
+    #loading {
+        display: none;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    #calendar {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 0 10px;
+    }
+
+</style>
                     <div id="menu4" class="tab-pane fade">
                             <div class="alert alert-info">
                                     <div id='loading'>loading...</div>
