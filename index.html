@@ -259,55 +259,42 @@
                                 </ul>
                         </div>
                     </div>
-    <script>
+<script>
+
     $(document).ready(function() {
-        var initialLocaleCode = 'fr';
         $('#calendar').fullCalendar({
             header: {
                 left: 'prev,next today',
                 center: 'title',
-                right: 'month,agendaWeek,agendaDay,listMonth'
+                right: 'listDay,month'
             },
-            locale: initialLocaleCode,
+
+            defaultView: 'listDay',
             defaultDate: '2017-03-05',
-            buttonIcons: false, // show the prev/next text
-            weekNumbers: false,
             navLinks: true, // can click day/week names to navigate views
             editable: false,
-            eventLimit: more, // allow "more" link when too many events
-
-            // THIS KEY WON'T WORK IN PRODUCTION!!!
-            // To make your own Google API key, follow the directions here:
-            // http://fullcalendar.io/docs/google_calendar/
+            eventLimit: true, // allow "more" link when too many events
             googleCalendarApiKey: 'AIzaSyA-jzm9BIuS-vGqcLVswJCL4kPMMsRhHLc',
-        
-            // US Holidays
             events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
+
+            eventClick: function(event) {
+                if (event.url) {
+                    return false;
+                }
+            },
+            eventRender: function(event, element) {
+                 $(element).tooltip({title: event.location});             
+            },
+
             loading: function(bool) {
                 $('#loading').toggle(bool);
             }
-            
-        });
 
-        // build the locale selector's options
-        $.each($.fullCalendar.locales, function(localeCode) {
-            $('#locale-selector').append(
-                $('<option/>')
-                    .attr('value', localeCode)
-                    .prop('selected', localeCode == initialLocaleCode)
-                    .text(localeCode)
-            );
         });
-
-        // when the selected option changes, dynamically change the calendar option
-        $('#locale-selector').on('change', function() {
-            if (this.value) {
-                $('#calendar').fullCalendar('option', 'locale', this.value);
-            }
-        });
+        
     });
 
-    </script>
+</script>
     <style>
     #loading {
         display: none;
