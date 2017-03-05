@@ -28,12 +28,6 @@
 		
 			// US Holidays
 			events: '2q2e0aaqhnplvj1arbslb8ua58@group.calendar.google.com',
-			eventClick: function(event) {
-				// opens events in a popup window
-				window.open(event.url, 'gcalevent', 'width=700,height=600');
-				return false;
-			},
-			
 			loading: function(bool) {
 				$('#loading').toggle(bool);
 			}
